@@ -19,6 +19,7 @@ void draw()
 		}
 	}
 	fill(255);
+	textAlign(CENTER,CENTER);
 	text ("Total: "+ sum,500/2,550);
 }
 void mousePressed()
